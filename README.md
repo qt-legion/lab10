@@ -101,6 +101,7 @@ below to help resolve the issue:
 
 Source: https://gems.hashicorp.com/
 
+# Устанавливаем плагины вручную
 $ vagrant plugin install vagrant-vbguest --plugin-clean-sources --plugin-source https://rubygems.org
 //Installed
 
